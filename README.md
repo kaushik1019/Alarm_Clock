@@ -1,4 +1,4 @@
-# Alluring_Maths
+# Alarm_Clock
 
 Tried implementing an alarm with the following functionalities-
 
